@@ -1,7 +1,8 @@
-### Hi there 👋
-
-[![Yikuanzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yikuanzz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Yiuanzz is here!! 😊😊
+**I will record the procession of my study. And share with you my experience.**
+**Let's go! And we can get more progression together.** ✨✨
+![Yikuanzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yikuanzz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yikuanzz/Yikuanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
