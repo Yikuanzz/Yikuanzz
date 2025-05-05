@@ -19,6 +19,14 @@
 
 ### Let's go!  ✨✨
 
+### 📦 Project
+
+[**snippet**](https://github.com/Yikuanzz/snippet): 简洁高效的 Go 语言 Web 应用，允许用户粘贴和分享文本片段。
+
+### 📗 Study
+
+[**leetcode-go**](https://github.com/Yikuanzz/leetcode-go)：动手写数据结构与算法。
+
 <!--
 <div weight="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=Yikuanzz&show_icons=true&theme=radical" height=200px weight="80%" style="display: inline-block;"//>
