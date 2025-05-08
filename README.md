@@ -19,11 +19,15 @@
 
 ### Let's go!  ✨✨
 
-### 📦 Project
+### 📦 Web Application
 
-[**snippet**](https://github.com/Yikuanzz/snippet): 简洁高效的 Go 语言 Web 应用，允许用户粘贴和分享文本片段。
+[**snippet**](https://github.com/Yikuanzz/snippet)：简洁高效的 Go 语言 Web 应用，允许用户粘贴和分享文本片段。
 
-### 📗 Study
+### 🔧 Tool
+
+[**go-migrator**](https://github.com/Yikuanzz/go-migrator)：一个基于 Go 语言的数据库迁移管理工具，支持 MySQL 和 PostgreSQL。
+
+### 📗 Study Hub
 
 [**leetcode-go**](https://github.com/Yikuanzz/leetcode-go)：动手写数据结构与算法。
 
