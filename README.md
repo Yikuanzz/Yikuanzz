@@ -7,6 +7,8 @@
 - 🌏 Also like the geography and histroy in the world!
 - 🧓🏻 I sincerely love the people who have always believed in me along the way.
 
+Here is my first blog address: [Yikunazz'blog](https://yikuanzz.github.io/).
+
 <!--
 ### 🛠 技术栈 | My Tech stack:
 - 💻 &#160;  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white" height=18px/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height=18px/> 
