@@ -23,7 +23,8 @@ Here is my first blog address: [Yikunazz'blog](https://yikuanzz.github.io/).
 
 ### 📦 Web Application
 
-[**snippet**](https://github.com/Yikuanzz/snippet)：简洁高效的 Go 语言 Web 应用，允许用户粘贴和分享文本片段。
+[**snippet**](https://github.com/Yikuanzz/snippet)：简洁高效的 Go 语言 Web 应用，允许用户粘贴和分享文本片段。 <br>
+[**video-service**](https://github.com/Yikuanzz/video-service)：一个简单易用、高性能的音视频文件上传服务，支持大文件分片上传和断点续传功能。
 
 ### 🔧 Tool
 
