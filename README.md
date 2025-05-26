@@ -29,6 +29,7 @@ Here is my first blog address: [Yikunazz'blog](https://yikuanzz.github.io/).
 ### 🔧 Tool
 
 [**go-migrator**](https://github.com/Yikuanzz/go-migrator)：一个基于 Go 语言的数据库迁移管理工具，支持 MySQL 和 PostgreSQL。
+[**redigo-lock**](https://github.com/Yikuanzz/redigo-lock)：基于 go-redis 实现的分布式锁 SDK，提供简单易用的 API 和丰富的功能特性。
 
 ### 📗 Study Hub
 
